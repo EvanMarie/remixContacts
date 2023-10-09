@@ -1,12 +1,6 @@
-Absolutely! Here's a revamped README for your implementation of the Remix Contact Tracker tutorial:
-
----
-
 # Remix Contact Tracker App Implementation
 
 This repository showcases my personal implementation of the contact tracking app tutorial provided by Remix. The tutorial focuses on creating a basic, feature-rich contact management app without the intricacies of databases or other production-level complexities. The primary aim is to learn and apply the core concepts of Remix.
-
-![Screenshot of the App](path-to-screenshot.png) _(Replace "path-to-screenshot.png" with the path to your app's screenshot for a visual representation)_
 
 ## Features of the Tutorial
 
@@ -32,11 +26,9 @@ The original tutorial from Remix estimates:
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/EvanMarie/remixContacts.git
+cd remixContacts
 ```
-
-_(Replace "your-username" and "your-repo-name" with your actual GitHub username and repository name.)_
 
 ### 2. Install the dependencies:
 
@@ -71,7 +63,3 @@ This implementation is open-source under the MIT License. For more information, 
 ## Credits
 
 - A big thank you to [Remix](https://remix.run/docs) for providing the tutorial which served as the foundation for this implementation.
-
----
-
-Remember to replace placeholder texts with your specific details. This format emphasizes that while the original tutorial is from Remix, the current repository and its nuances are your own.
